@@ -1,3 +1,1 @@
-child
-hello1
-hello2
+parent add
